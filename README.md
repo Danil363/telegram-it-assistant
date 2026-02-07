@@ -36,6 +36,6 @@ Tech Stack
 Installation
 
 ```bash
-git clone https://github.com/your-username/telegram-it-assistant.git
+git clone https://github.com/Danil363/telegram-it-assistant.git
 cd telegram-it-assistant
 pip install -r requirements.txt
