@@ -27,6 +27,6 @@ sentence_transformer = SentenceTransformer(
     device="cuda" if torch.cuda.is_available() else "cpu"
 )
 
-API_TOKEN = "8343223159:AAEKbd-ufvBH8U3fzY_NR9G99Rt9rUcz0J4"
+API_TOKEN = "API_TOKEN "
 DATA_PATH = 'data/rag_data.csv'
 INDEX_PATH = 'data/tech_news_index.faiss'
